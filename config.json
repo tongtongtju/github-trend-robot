@@ -1,0 +1,33 @@
+{
+  "languages": ["", "python", "typescript"],
+  "since": "daily",
+  "maxReposPerSection": 25,
+  "outputDir": "./output",
+  "focusTopics": [
+    "ai",
+    "artificial-intelligence",
+    "agent",
+    "agents",
+    "llm",
+    "large-language-models",
+    "mcp",
+    "model-context-protocol",
+    "knowledge-base",
+    "knowledge-graph",
+    "rag",
+    "retrieval-augmented-generation",
+    "deep-learning",
+    "machine-learning",
+    "nlp",
+    "natural-language-processing",
+    "chatbot",
+    "claude",
+    "openai",
+    "embedding",
+    "vector-database",
+    "transformer",
+    "diffusion",
+    "aigc",
+    "generative-ai"
+  ]
+}
